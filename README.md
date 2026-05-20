@@ -1,0 +1,1 @@
+A Personal Portfolio Website is a responsive web application used to showcase skills, projects, resume, achievements, and contact information, helping individuals build professional online presence and career opportunities effectively.
